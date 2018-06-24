@@ -1,0 +1,11 @@
+Channel55,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:6023_8FXKkRJb6NMmLzW/playlist.m3u8,Schweiz
+Kanal 9 HD,https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8,Schweiz
+TeleBasel,http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8,Schweiz
+TV O,https://tvo.vedge.infomaniak.com/livecast/tvo/master.m3u8,Schweiz
+LaTele,https://latele.vedge.infomaniak.com/livecast/latele/master.m3u8,Schweiz
+TV M3,https://tvm3.vedge.infomaniak.com/livecast/tvm3/master.m3u8,Schweiz
+Naxoo,https://naxoo.vedge.infomaniak.com/livecast/naxoo/master.m3u8,Schweiz
+RougeTV,https://rougetv.vedge.infomaniak.com/livecast/rougetv/master.m3u8,Schweiz
+SRF1,https://srgssruni1ch-lh.akamaihd.net/i/enc1uni_ch@190951/master.m3u8,Schweiz
+SRF2,https://srgssruni2ch-lh.akamaihd.net/i/enc2uni_ch@191041/master.m3u8,Schweiz
+SRF Info,https://srgssruni3ch-lh.akamaihd.net/i/enc3uni_ch@191073/master.m3u8,Schweiz
