@@ -1,0 +1,19 @@
+ARD,https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8,Vollprogramm
+ZDF,http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8?dw=0,Vollprogramm
+WDR,http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8,Vollprogramm
+NDR Hamburg,https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8,Vollprogramm
+RBB,https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8,Vollprogramm
+MDR Sachsen,http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8,Vollprogramm
+HR,http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8,Vollprogramm
+SWR BW,http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8,Vollprogramm
+BR Süd,http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8,Vollprogramm
+BR alpha,http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8,Vollprogramm
+Tagesschau 24,http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8,Vollprogramm
+ONE,http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8,Vollprogramm
+ZDF Info,http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8?dw=0,Vollprogramm
+ZDF Neo,http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8?dw=0,Vollprogramm
+Phoenix,http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8?dw=0,Vollprogramm
+arte,http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8,Vollprogramm
+3sat,http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8?dw=0,Vollprogramm
+Deutsche Welle,http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8?play-only=primary,Vollprogramm
+Deutsche Welle+,http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8?play-only=primary,Vollprogramm
