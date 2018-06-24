@@ -1,0 +1,6 @@
+Rai Premium,http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8,Italien
+Rai Storia,http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/master.m3u8,Italien
+Rai Yoyo,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8,Italien
+Rai News,http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8,Italien
+SkyTG24,http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8,Italien
+Suedtirol TV,http://77.72.196.214:8554/live/SuedtirolTV/master.m3u8,Italien
