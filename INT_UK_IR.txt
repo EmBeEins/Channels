@@ -7,3 +7,5 @@ Insight,http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8,UK
 BBC World News,http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8,UK
 SkyNews,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8,UK
 Chelsea TV,http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8,UK
+BBC Arabia,http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8,UK
+SkyNews Arabia,https://stream.skynewsarabia.com/hls/sna.m3u8,UK
