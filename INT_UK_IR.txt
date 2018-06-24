@@ -1,0 +1,6 @@
+RTE News,http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8,Irland
+RTE 1,https://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-360.m3u8,Irland
+RTE 2,https://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-360.m3u8,Irland
+RTE Jr,https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-360.m3u8,Irland
+SkyNews,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8,UK
+Chelsea TV,http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8,UK
