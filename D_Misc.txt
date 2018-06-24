@@ -7,3 +7,8 @@ Servus TV,https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master
 Anixe TV,http://video1.anixehd.tv:8080/Apple/anixe.m3u8,Privatsender
 4 Seasons TV,http://content.jwplatform.com/manifests/LtMsmYhi.m3u8,Reise
 Souvenir from Earth,http://live.streaming.rngd.cloud/sfe/live/playlist.m3u8,Kunst
+Visit-X,http://stream.visit-x.tv/vxtv/live/playlist.m3u8,Erotik
+Fundorado TV,http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8,Erotik
+RiC,https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8,Kinder
+Nickelodeon,http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8,Kinder
+Ikono TV,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5656_KypcLhrPFd3vNZw/master.m3u8,Kultur
