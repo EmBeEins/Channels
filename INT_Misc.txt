@@ -1,0 +1,142 @@
+master.m3u8,Musik
+NRJ France TV,https://energytv.vedge.infomaniak.com/livecast/energytv/f1tv.m3u8,Musik
+NRJ Belgique TV,http://5.196.138.6:1935/live/ngrp:nrjbelgique_all/playlist.m3u8,Musik
+Retro TV,http://stream.mediawork.cz/retrotv/retrotvHQ1/f1tv.m3u8,Musik
+Keep it country TV,http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live.m3u8,Musik
+CMC TV USA,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CMCUSA.m3u8,Musik
+Virgin Radio TV,http://wow01.105.net/live/virgin1/playlist.m3u8,Musik
+1Music,http://stream.1music.hu/stream/1music.m3u8,Musik
+HitMusic,http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8,Musik
+M2O,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on,Musik
+QMusic,http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8,Musik
+Hillsong Channel,http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8,Musik
+Indies Live,http://ec.playmedia.fr/indies-live/live/playlist.m3u8,Musik
+DJING Live,http://www.djing.com/tv/live.m3u8,Musik
+DJING Dancefloor,http://www.djing.com/tv/dancefloor.m3u8,Musik
+DJING Underground,http://www.djing.com/tv/underground.m3u8,Musik
+DJING Classics,http://www.djing.com/tv/classics.m3u8,Musik
+DJING Animation,http://www.djing.com/tv/animation.m3u8,Musik
+Eska Best of,https://stream.smcdn.pl/best-t/best_720p/master.m3u8,Musik
+Polo Party,http://stream.smcdn.pl/polo_party-t/polo_party_360p/master.m3u8,Musik
+StarsTV,http://starstv.live.e55-po.insyscd.net/starstvhd.smil/master.m3u8,Musik
+VOX Music,http://stream.smcdn.pl/vox2-p/stream1/master.m3u8,Musik
+VOX Music OldSchool,http://stream.smcdn.pl/vox-t/vox_360p/master.m3u8,Musik
+Country Network,https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8,Musik
+California Music Channel,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8,Musik
+Music Choice,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8,Musik
+Yes TV,http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8,Musik
+DittyTV,http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8,Musik
+RTL Lux 1,http://live01.rtl.lu/channel1/smil:channel1/master.m3u8,Luxemburg
+RTL Lux 2,http://live01.rtl.lu/channel2/smil:channel2/master.m3u8,Luxemburg
+LuckyJack,http://live-m03.abweb.com/liveabm03/ngrp:luckyjack.stream_bis/chunklist_b1596000.m3u8,Luxemburg
+RTE News,http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8,Irland
+RTE 1,https://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-360.m3u8,Irland
+RTE 2,https://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-360.m3u8,Irland
+RTE Jr,https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-360.m3u8,Irland
+RTL TVI,http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8,Belgien
+TV Limburg,http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8,Belgien
+La 1,http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8,Spanien
+La 2,http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8,Spanien
+24 Horas,http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8,Spanien
+TVE Catalunia,http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8,Spanien
+Antene 3 24,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8,Spanien
+Congresso,http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8?DVR&m3u8,Spanien
+Antene 3,http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8,Spanien
+La Sexta,http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8,Spanien
+Neox,http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8,Spanien
+Nova,http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8,Spanien
+Mega,http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8,Spanien
+A3 Series,http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8,Spanien
+40 Principales,http://40-live-hd-f.akamaihd.net/i/40PremiosCam1_x@42847/master.m3u8,Spanien
+C33,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8,Spanien
+Iberia 3,http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_3.m3u8,Spanien
+EITB,http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8,Spanien
+TV Canaria,http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8,Spanien
+TV Ceuta,http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8,Spanien
+Real Madrid TV,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8,Spanien
+Sevilla FC,http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8,Spanien
+Vatican TV,https://www.youtube.com/embed/86SemtwG6Lc?rel=0&autoplay=1,Vatikan
+Rai Premium,http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8,Italien
+Rai Storia,http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/master.m3u8,Italien
+Rai Yoyo,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8,Italien
+Rai News,http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8,Italien
+SkyTG24,http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8,Italien
+Suedtirol TV,http://77.72.196.214:8554/live/SuedtirolTV/master.m3u8,Italien
+Channel55,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:6023_8FXKkRJb6NMmLzW/playlist.m3u8,Schweiz
+Kanal 9 HD,https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8,Schweiz
+TeleBasel,http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8,Schweiz
+TV O,https://tvo.vedge.infomaniak.com/livecast/tvo/master.m3u8,Schweiz
+LaTele,https://latele.vedge.infomaniak.com/livecast/latele/master.m3u8,Schweiz
+TV M3,https://tvm3.vedge.infomaniak.com/livecast/tvm3/master.m3u8,Schweiz
+Naxoo,https://naxoo.vedge.infomaniak.com/livecast/naxoo/master.m3u8,Schweiz
+RougeTV,https://rougetv.vedge.infomaniak.com/livecast/rougetv/master.m3u8,Schweiz
+SRF1,https://srgssruni1ch-lh.akamaihd.net/i/enc1uni_ch@190951/master.m3u8,Schweiz
+SRF2,https://srgssruni2ch-lh.akamaihd.net/i/enc2uni_ch@191041/master.m3u8,Schweiz
+SRF Info,https://srgssruni3ch-lh.akamaihd.net/i/enc3uni_ch@191073/master.m3u8,Schweiz
+TV 1,http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8,Finnland
+TV 2,http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8,Finnland
+Kanal 10,http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/f1tv.m3u8,Schweden
+RUV 1,http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index.m3u8,Island
+RUV 2,http://ruvruv2erl-live.hls.adaptive.level3.net/ruv/ruv2erl/index.m3u8,Island
+London Live,http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_600.m3u8,UK
+Insight,http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8,UK
+BBC World News,http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8,UK
+TRT 1,http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8,Tuerkei
+TRT World News,http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8,Tuerkei
+TRT Spor,http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/HasBahCa.m3u8,Tuerkei
+CNN Turk,http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8,Tuerkei
+Al Jazeera,http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8,VAE
+ATV,http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8,Belgien
+NHK World,https://nhkwtv-i.akamaihd.net/hls/live/263942/nhkwtv/index_2100.m3u8,Japan
+Channel News Asia,http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8,Malaysia
+Weather Channel,https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8,Kanada
+Omroep Venlo,https://media.streamone.net/hlslive/account=lDJBNuobD5c2/livestream=2JJFDeYCdhw0/2JJFDeYCdhw0.m3u8,Niederlande
+Omroep Gelderland,http://web.omroepgelderland.nl/live/livetv.m3u8,Niederlande
+Omroep Limburg,http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/index_1_av-p.m3u8,Niederlande
+Omroep Zeeland,http://livestream.zeelandnet.nl:1935/live/omroepzeeland_tv_1500k.sdp/playlist.m3u8?wowzasessionid=285032609,Niederlande
+RTV Drente,http://stream.rtvdrenthe.nl/tv/tvstream1/playlist.m3u8,Niederlande
+NOS NEWS,https://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24-audio_nld=128000-video=1400000.m3u8,Niederlande
+Radio Veronica,http://b2b.rr.kpnstreaming.nl/hls/live/b2b/skyradio/live/skyradio/veronica/1600.m3u8,Niederlande
+GONG,http://51.254.215.79/appflux/gong/playlist.m3u8,Frankreich
+Deutsche Welle TV (English),http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8?play-only=primary,Deutschland
+Deutsche Welle TV (Spanisch),http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?play-only=primary,Deutschland
+Deutsche Welle TV (Arabisch),http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8?play-only=primary,Deutschland
+BRT HD,http://wms.brtk.net:1935/live/BRTHD/master.m3u8,Zypern
+TV 2 Bornholm,http://live.tv2bornholm.dk/stream/live/master.m3u8,Denmark
+Mad TV,http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8,Zypern
+Azteca1,http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8,Mexiko
+Nile Cinema,http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8,Aegypten
+Dubai TV,http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8,VAE
+BBC Arabia,http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8,VAE
+Sky News Arabia,https://stream.skynewsarabia.com/hls/sna.m3u8,VAE
+Al Jazeera Doc,http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8,VAE
+TVI 24,http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8,Portugal
+TV2 Sport,http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8,Danmark
+TV2 News,http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master.m3u8,Danmark
+TV4 Events,http://tv4events3-lh.akamaihd.net/i/EXTRAEVENT14_1@324065/master.m3u8,Danmark
+Grand Lille,http://str82.creacast.com/grandlilletv/smil:grandlilletv.smil/f1tv.m3u8,Frankreich
+Antenna Reunion,http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/f1tv.m3u8,Frankreich
+BFM 24,http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8,Frankreich
+TV5 Monde,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8,Frankreich
+SkyNews,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8,UK
+Chelsea TV,http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8,UK
+NH,http://lb-nh-live.cdn.streamgate.nl:1935/nh/video/nh.smil/playlist.m3u8,Niederlande
+TVenFrance1,http://ftvensport01-lh.akamaihd.net/i/SPORT_LV01@323121/master.m3u8,Sport
+3News Live,http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8,Australien
+NPO1 Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/radio1/radio1.isml/radio1.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url,Niederlande
+NPO2 Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/radio2/radio2.isml/radio2.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url,Niederlande
+NPO3 Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/3fm/3fm.isml/3fm.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url,Niederlande
+NPO4 Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/radio4/radio4.isml/radio4.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url,Niederlande
+NPO FunX Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/funx/funx.isml/funx.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url,Niederlande
+NPO Politiek24,http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/politiek24-audio_nld=128000-video=1400000.m3u8,Niederlande
+Deutsche Welle (Arabia),http://dwstream71-lh.akamaihd.net/i/dwstream71_live@124558/master.m3u8,International
+Deutsche Welle (English),http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8,International
+Deutsche Welle (Espanol),http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8,International
+MC Play,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/master.m3u8,Musik
+CNN Chile,http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8,Chile
+CNN India,http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8,Indien
+ThaiPBS,http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8,Thailand
+CGTN,https://live.cgtn.com/1000/prog_index.m3u8,China
+MUSICtop,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8,Argentinien
+VH1,http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8,Musik
+Q-Dance,https://qdance-stream1.akamaized.net/hls/live/669222/stream1-mainstage/Assets_1529616289238/Layer3_index.m3u8,Musik
