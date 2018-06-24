@@ -1,0 +1,39 @@
+GoTV,http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8,Musik
+KroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8,Musik
+XITE,http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8,Musik
+Deluxe Music,http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8,Musik
+Beatz,https://beats_1.vedge.infomaniak.com/livecast/beats_1/master.m3u8,Musik
+MTV Nordic,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8,Musik
+MTV Music24,http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8,Musik
+Heart TV,http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8,Musik#
+Capital TV,http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8,Musik
+NRJ France TV,https://energytv.vedge.infomaniak.com/livecast/energytv/f1tv.m3u8,Musik
+NRJ Belgique TV,http://5.196.138.6:1935/live/ngrp:nrjbelgique_all/playlist.m3u8,Musik
+Retro TV,http://stream.mediawork.cz/retrotv/retrotvHQ1/f1tv.m3u8,Musik
+Keep it country TV,http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live.m3u8,Musik
+CMC TV USA,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CMCUSA.m3u8,Musik
+Virgin Radio TV,http://wow01.105.net/live/virgin1/playlist.m3u8,Musik
+1Music,http://stream.1music.hu/stream/1music.m3u8,Musik
+HitMusic,http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8,Musik
+M2O,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on,Musik
+QMusic,http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8,Musik
+Hillsong Channel,http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8,Musik
+Indies Live,http://ec.playmedia.fr/indies-live/live/playlist.m3u8,Musik
+DJING Live,http://www.djing.com/tv/live.m3u8,Musik
+DJING Dancefloor,http://www.djing.com/tv/dancefloor.m3u8,Musik
+DJING Underground,http://www.djing.com/tv/underground.m3u8,Musik
+DJING Classics,http://www.djing.com/tv/classics.m3u8,Musik
+DJING Animation,http://www.djing.com/tv/animation.m3u8,Musik
+Eska Best of,https://stream.smcdn.pl/best-t/best_720p/master.m3u8,Musik
+Polo Party,http://stream.smcdn.pl/polo_party-t/polo_party_360p/master.m3u8,Musik
+StarsTV,http://starstv.live.e55-po.insyscd.net/starstvhd.smil/master.m3u8,Musik
+VOX Music,http://stream.smcdn.pl/vox2-p/stream1/master.m3u8,Musik
+VOX Music OldSchool,http://stream.smcdn.pl/vox-t/vox_360p/master.m3u8,Musik
+Country Network,https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8,Musik
+California Music Channel,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8,Musik
+Music Choice,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8,Musik
+Yes TV,http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8,Musik
+DittyTV,http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8,Musik
+MUSICtop,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8,Musik
+VH1,http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8,Musik
+Q-Dance,https://qdance-stream1.akamaized.net/hls/live/669222/stream1-mainstage/Assets_1529616289238/Layer3_index.m3u8,Musik
