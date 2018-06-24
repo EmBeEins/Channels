@@ -1,0 +1,9 @@
+TV 1,http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8,Finnland
+TV 2,http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8,Finnland
+Kanal 10,http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/f1tv.m3u8,Schweden
+RUV 1,http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index.m3u8,Island
+RUV 2,http://ruvruv2erl-live.hls.adaptive.level3.net/ruv/ruv2erl/index.m3u8,Island
+TV 2 Bornholm,http://live.tv2bornholm.dk/stream/live/master.m3u8,Denmark
+TV2 Sport,http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8,Danmark
+TV2 News,http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master.m3u8,Danmark
+TV4 Events,http://tv4events3-lh.akamaihd.net/i/EXTRAEVENT14_1@324065/master.m3u8,Danmark
