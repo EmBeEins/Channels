@@ -1,0 +1,9 @@
+amily TV,http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8,Unterhaltung
+blizz,http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8,Unterhaltung
+eoTV,http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8?scheme=m3u8,Unterhaltung
+HealthTV,http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8,Gesundheit
+Welt der Wunder TV,http://live.vidoo.de/live/weltderwunder/playlist.m3u8,Wissen/Technik
+Servus TV,https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master.m3u8,Privatsender
+Anixe TV,http://video1.anixehd.tv:8080/Apple/anixe.m3u8,Privatsender
+4 Seasons TV,http://content.jwplatform.com/manifests/LtMsmYhi.m3u8,Reise
+Souvenir from Earth,http://live.streaming.rngd.cloud/sfe/live/playlist.m3u8,Kunst
