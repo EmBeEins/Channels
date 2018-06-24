@@ -1,0 +1,14 @@
+Omroep Venlo,https://media.streamone.net/hlslive/account=lDJBNuobD5c2/livestream=2JJFDeYCdhw0/2JJFDeYCdhw0.m3u8,Niederlande
+Omroep Gelderland,http://web.omroepgelderland.nl/live/livetv.m3u8,Niederlande
+Omroep Limburg,http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/index_1_av-p.m3u8,Niederlande
+Omroep Zeeland,http://livestream.zeelandnet.nl:1935/live/omroepzeeland_tv_1500k.sdp/playlist.m3u8?wowzasessionid=285032609,Niederlande
+RTV Drente,http://stream.rtvdrenthe.nl/tv/tvstream1/playlist.m3u8,Niederlande
+NOS NEWS,https://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24-audio_nld=128000-video=1400000.m3u8,Niederlande
+Radio Veronica,http://b2b.rr.kpnstreaming.nl/hls/live/b2b/skyradio/live/skyradio/veronica/1600.m3u8,Niederlande
+NPO1 Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/radio1/radio1.isml/radio1.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url,Niederlande
+NPO2 Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/radio2/radio2.isml/radio2.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url,Niederlande
+NPO3 Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/3fm/3fm.isml/3fm.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url,Niederlande
+NPO4 Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/radio4/radio4.isml/radio4.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url,Niederlande
+NPO FunX Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/funx/funx.isml/funx.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url,Niederlande
+NPO Politiek24,http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/politiek24-audio_nld=128000-video=1400000.m3u8,Niederlande
+NH,http://lb-nh-live.cdn.streamgate.nl:1935/nh/video/nh.smil/playlist.m3u8,Niederlande
