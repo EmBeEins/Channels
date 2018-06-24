@@ -2,3 +2,4 @@ Welt InfoScreen,https://news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/mas
 Welt,https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8,Nachrichten
 n-tv,http://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/master.m3u8,Nachrichten
 Deutsches Anleger Fernsehen,http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8,Nachrichten
+Sky Sportnews HD,https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8,Nachrichten
