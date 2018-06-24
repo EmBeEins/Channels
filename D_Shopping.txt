@@ -7,3 +7,6 @@ Juwelo,https://sdn-global-live-http-cache.3qsdn.com/2555/_definst_/mp4:2555_Nqcv
 Channel21 (YouTube),https://www.youtube.com/embed/live_stream?channel=UCcst6yHdE5Gdisu5YKCgc1g&autoplay=1&rel=0&showinfo=0,Shopping
 Sonnenklar TV,http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8,Shopping
 1-2-3-TV,http://123tv.cdn.ses-ps.com/index.m3u8,Shopping
+Pearl TV,http://enstyle.cdn.ses-ps.com/index.m3u8,Shopping
+Mediaspar TV,http://mediaspar-live.hls.adaptive.level3.net/ses/mediaspar/index.m3u8,Shopping
+Sparhandy TV,http://sparhandytv-live.hls.adaptive.level3.net/ses/sparhandytv/index.m3u8,Shopping
