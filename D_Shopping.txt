@@ -1,0 +1,9 @@
+QVC,http://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi5/live-test.m3u8?disableDVR=1,Shopping
+QVC Plus,http://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi6/live-test.m3u8?disableDVR=1,Shopping
+QVC Beauty,http://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi7/live-test.m3u8?disableDVR=1,Shopping
+HSE 24,https://c17001-l.u.core.cdn.streamfarm.net/17001hse24/live/3175hse24/live_de.isml/playlist.m3u8,Shopping
+HSE 24 Extra,https://c17001-l.u.core.cdn.streamfarm.net/17001hse24/live/3293hse24digital/live_de.isml/playlist.m3u8,Shopping
+Juwelo,https://sdn-global-live-http-cache.3qsdn.com/2555/_definst_/mp4:2555_NqcvTQ4hmnHPkRM/playlist.m3u8,Shopping
+Channel21 (YouTube),https://www.youtube.com/embed/live_stream?channel=UCcst6yHdE5Gdisu5YKCgc1g&autoplay=1&rel=0&showinfo=0,Shopping
+Sonnenklar TV,http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8,Shopping
+1-2-3-TV,http://123tv.cdn.ses-ps.com/index.m3u8,Shopping
