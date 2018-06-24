@@ -6,3 +6,4 @@ TVenFrance1,http://ftvensport01-lh.akamaihd.net/i/SPORT_LV01@323121/master.m3u8,
 GONG,http://51.254.215.79/appflux/gong/playlist.m3u8,Frankreich
 RTL TVI,http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8,Belgien
 TV Limburg,http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8,Belgien
+ATV,http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8,Belgien
