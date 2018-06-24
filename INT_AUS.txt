@@ -1,2 +1,3 @@
 3News Live,http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8,Australien
-https://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+ABC News,https://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8,Australien
+TSN,https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8,Australien
